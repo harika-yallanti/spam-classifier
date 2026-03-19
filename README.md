@@ -1,4 +1,4 @@
-# Spam Email Classifier 🚀
+# Spam Email Classifier 
 
 Project Overview
 This project is a Machine Learning-based Spam Email Classifier built using:
